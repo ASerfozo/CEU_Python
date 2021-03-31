@@ -17,3 +17,8 @@ Examined indicators:
 - Women in parliament (%)
 
 Note: we tried to examine further indicators measuring economy, employment, equality in the society, but other relevant indicators were not available in this period. 
+
+## Repository
+[Get data and enrich with API](code/Term_Project_get_data.ipynb)  
+[Exported data in the data folder](https://github.com/ASerfozo/CEU_Python/tree/main/data)  
+[Final analysis](code/Term_Project_analysis.ipynb)  
